@@ -1,3 +1,3 @@
 # hello-world
 Hello World
-Just trying to learn a little bit about GitHub.
+Just trying to learn a little bit more about GitHub.
